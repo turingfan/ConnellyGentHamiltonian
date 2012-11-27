@@ -1,0 +1,22 @@
+set logscale y
+
+set terminal postscript
+set title 'Search Cost in Nodes Traversed, alpha = 0.5'
+set xlabel 'gamma'
+set ylabel 'Search Cost in Nodes Traversed'
+set output 'ham_complete_it_a0.5.ps'
+plot [:42] "n20_a0.5_it.gp" with linespoints title "n=20", "n21_a0.5_it.gp" with linespoints title "n=21", "n22_a0.5_it.gp" with linespoints title "n=22", "n23_a0.5_it.gp" with linespoints title "n=23", "n24_a0.5_it.gp" with linespoints title "n=24", "n25_a0.5_it.gp" with linespoints title "n=25", "n26_a0.5_it.gp" with linespoints title "n=26", "n27_a0.5_it.gp" with linespoints title "n=27", "n28_a0.5_it.gp" with linespoints title "n=28", "n29_a0.5_it.gp" with linespoints title "n=29", "n30_a0.5_it.gp" with linespoints title "n=30", "n31_a0.5_it.gp" with linespoints title "n=31", "n32_a0.5_it.gp" with linespoints title "n=32", "n33_a0.5_it.gp" with linespoints title "n=33", "n34_a0.5_it.gp" with linespoints title "n=34", "n35_a0.5_it.gp" with linespoints title "n=35", "n36_a0.5_it.gp" with linespoints title "n=36", "n37_a0.5_it.gp" with linespoints title "n=37", "n38_a0.5_it.gp" with linespoints title "n=38", "n39_a0.5_it.gp" with linespoints title "n=39"
+
+set terminal postscript
+set title 'Search Cost in Nodes Traversed, alpha = 1.0'
+set xlabel 'gamma'
+set ylabel 'Search Cost in Nodes Traversed'
+set output 'ham_complete_it_a1.0.ps'
+plot [:42] "n20_a1.0_it.gp" with linespoints title "n=20", "n21_a1.0_it.gp" with linespoints title "n=21", "n22_a1.0_it.gp" with linespoints title "n=22", "n23_a1.0_it.gp" with linespoints title "n=23", "n24_a1.0_it.gp" with linespoints title "n=24", "n25_a1.0_it.gp" with linespoints title "n=25", "n26_a1.0_it.gp" with linespoints title "n=26", "n27_a1.0_it.gp" with linespoints title "n=27", "n28_a1.0_it.gp" with linespoints title "n=28", "n29_a1.0_it.gp" with linespoints title "n=29", "n30_a1.0_it.gp" with linespoints title "n=30", "n31_a1.0_it.gp" with linespoints title "n=31", "n32_a1.0_it.gp" with linespoints title "n=32", "n33_a1.0_it.gp" with linespoints title "n=33", "n34_a1.0_it.gp" with linespoints title "n=34", "n35_a1.0_it.gp" with linespoints title "n=35", "n36_a1.0_it.gp" with linespoints title "n=36", "n37_a1.0_it.gp" with linespoints title "n=37", "n38_a1.0_it.gp" with linespoints title "n=38", "n39_a1.0_it.gp" with linespoints title "n=39"
+
+set terminal postscript
+set title 'Search Cost in Nodes Traversed, alpha = 1.5'
+set xlabel 'gamma'
+set ylabel 'Search Cost in Nodes Traversed'
+set output 'ham_complete_it_a1.5.ps'
+plot [:42] "n20_a1.5_it.gp" with linespoints title "n=20", "n21_a1.5_it.gp" with linespoints title "n=21", "n22_a1.5_it.gp" with linespoints title "n=22", "n23_a1.5_it.gp" with linespoints title "n=23", "n24_a1.5_it.gp" with linespoints title "n=24", "n25_a1.5_it.gp" with linespoints title "n=25", "n26_a1.5_it.gp" with linespoints title "n=26", "n27_a1.5_it.gp" with linespoints title "n=27", "n28_a1.5_it.gp" with linespoints title "n=28", "n29_a1.5_it.gp" with linespoints title "n=29", "n30_a1.5_it.gp" with linespoints title "n=30", "n31_a1.5_it.gp" with linespoints title "n=31", "n32_a1.5_it.gp" with linespoints title "n=32", "n33_a1.5_it.gp" with linespoints title "n=33", "n34_a1.5_it.gp" with linespoints title "n=34", "n35_a1.5_it.gp" with linespoints title "n=35", "n36_a1.5_it.gp" with linespoints title "n=36", "n37_a1.5_it.gp" with linespoints title "n=37", "n38_a1.5_it.gp" with linespoints title "n=38", "n39_a1.5_it.gp" with linespoints title "n=39"

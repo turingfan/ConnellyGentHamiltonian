@@ -1,0 +1,26 @@
+graph prune {
+size="7,7";
+node [shape=circle];
+{ node[shape=circle style=invis]
+  a b c d
+}
+{rank=same; a b  ; }
+{rank=same; c d ; }
+{rank=same; U W V ; }
+{ node [shape=circle style=invis]
+  x y z xx
+  {rank=same; x z; }
+  {rank=same; xx y; }
+}
+
+ 
+
+a -- W [style=dashed];
+b -- W [style=dashed];
+x -- U;
+U -- W;
+W -- V;
+V -- y;
+W -- { c ; d }[style=dashed]
+
+}

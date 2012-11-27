@@ -1,0 +1,25 @@
+graph prunepath {
+node [shape=circle];
+{rank=same; a i; }
+{rank=same; b c d e f g h ; }
+
+{ node [shape=circle style=invis]
+ u v w x y z a b c d 
+}
+
+a -- b;
+b -- c;
+c -- d;
+d -- e;
+e -- f;
+f -- g;
+g -- h;
+h -- i;
+x -- a;
+y -- a;
+z -- a;
+u -- i;
+v -- i;
+w -- i;
+a -- i[style=dashed];
+}

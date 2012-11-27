@@ -1,0 +1,8 @@
+graph g {
+node [width=0.01 height=0.01 shape=circle style=invis];
+a -- b;
+b -- c;
+d -- e;
+a -- e;
+c -- d;
+}

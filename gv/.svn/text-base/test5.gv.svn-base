@@ -1,0 +1,25 @@
+graph prune {
+size="7,7";
+node [shape=circle];
+edge [style="setlinewidth(4)"]
+{ node[shape=circle style=invis]
+  a b c d e f
+}
+
+w0 -- w1;
+w1 -- w2;
+w2 -- w3[style=dashed];
+w3 -- w4;
+w4 -- w5;
+w2 -- w5;
+
+a -- w0[style=dashed];
+b -- w0[style=dashed];
+c -- w0[style=dashed];
+
+d -- w3[style=dashed];
+e -- w3[style=dashed];
+f -- w3[style=dashed];
+ 
+
+}

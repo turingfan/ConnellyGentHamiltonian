@@ -1,0 +1,106 @@
+10
+
+dir
+9209
+svn+ssh://keith.cs.st-andrews.ac.uk/mnt/raid/svn/repositories/papers/AA_Papers/HamiltonianConnellyGent/DraftOne/data
+svn+ssh://keith.cs.st-andrews.ac.uk/mnt/raid/svn/repositories/papers
+
+
+
+2012-09-06T10:44:31.129133Z
+8978
+ipg
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e8efa43c-e9dd-11dc-9e0a-5135fd456140
+
+corrections-dat-processed
+dir
+
+HeadToHead
+dir
+
+posa_hth_for_dropped
+dir
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+svn+ssh://keith.cs.st-andrews.ac.uk/mnt/raid/svn/repositories/papers/AA_Papers/HamiltonianConnellyGent/DraftOne/data/HeadToHead/posa_hth_for_dropped
+8975
+
+large
+dir
+
+parse_forced
+dir
+
+posa_erdos_renyi_sim
+dir
+
+complete_small_parsed
+dir
+
+shared.gnu
+file
+
+
+
+
+2012-08-28T16:33:58.000000Z
+32da50e60be98a5b1be0a46b413842fc
+2012-08-28T20:07:55.958657Z
+8916
+ipg
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5061
+
+complete_small_hard
+dir
+

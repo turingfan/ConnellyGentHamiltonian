@@ -1,0 +1,23 @@
+set terminal postscript
+set title 'Probability of Finding a Solution, alpha = 0.5 (Complete Search)'
+set xlabel 'gamma'
+set ylabel 'Probability of Finding a Solution'
+set output 'ham_complete_prob_a0.5.ps'
+plot [:42] "n20_a0.5_p.gp" with linespoints title "n=20", "n25_a0.5_p.gp" with linespoints title "n=25", "n30_a0.5_p.gp" with linespoints title "n=30", "n35_a0.5_p.gp" with linespoints title "n=35", "n39_a0.5_p.gp" with linespoints title "n=39"
+
+set terminal postscript
+set title 'Probability of Finding a Solution, alpha = 1.0 (Complete Search)'
+set xlabel 'gamma'
+set ylabel 'Probability of Finding a Solution'
+set output 'ham_complete_prob_a1.0.ps'
+plot [:42] "n20_a1.0_p.gp" with linespoints title "n=20", "n25_a1.0_p.gp" with linespoints title "n=25", "n30_a1.0_p.gp" with linespoints title "n=30", "n35_a1.0_p.gp" with linespoints title "n=35", "n39_a1.0_p.gp" with linespoints title "n=39"
+
+
+set terminal postscript
+set title 'Probability of Finding a Solution, alpha = 1.5 (Complete Search)'
+set xlabel 'gamma'
+set ylabel 'Probability of Finding a Solution'
+set output 'ham_complete_prob_a1.5.ps'
+plot [:42] "n20_a1.5_p.gp" with linespoints title "n=20", "n25_a1.5_p.gp" with linespoints title "n=25", "n30_a1.5_p.gp" with linespoints title "n=30", "n35_a1.5_p.gp" with linespoints title "n=35", "n39_a1.5_p.gp" with linespoints title "n=39"
+
+

@@ -1,0 +1,23 @@
+graph prune_path {
+node [shape=circle];
+size="10,3"
+width=0
+{rank=same; w x y z; }
+
+a -- w;
+a -- y[style=dashed];
+a -- b;
+b -- y[style=dashed];
+b -- c;
+c -- z;
+
+w -- x[style="setlinewidth(10)"];
+x -- y[style="setlinewidth(10)"];
+y -- z[style="setlinewidth(10)"];
+
+w -- d;
+d -- e;
+e -- f;
+f -- y[style=dashed];
+f -- z;
+}

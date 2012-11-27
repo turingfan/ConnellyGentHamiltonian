@@ -1,0 +1,3311 @@
+10
+
+dir
+0
+svn+ssh://keith.cs.st-andrews.ac.uk/mnt/raid/svn/repositories/papers/AA_Papers/HamiltonianConnellyGent/graph/scripts/dat
+svn+ssh://keith.cs.st-andrews.ac.uk/mnt/raid/svn/repositories/papers
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e8efa43c-e9dd-11dc-9e0a-5135fd456140
+
+a1.5.g11.mean.gp
+file
+
+
+
+add
+
+a1.5.g13.mean.gp
+file
+
+
+
+add
+
+a0.5.g11.min.gp
+file
+
+
+
+add
+
+a1.5.g15.mean.gp
+file
+
+
+
+add
+
+a1.0.g15.max.gp
+file
+
+
+
+add
+
+a1.0.g17.min.gp
+file
+
+
+
+add
+
+windmill.a0.5.n160.ps
+file
+
+
+
+add
+
+a1.5.g17.mean.gp
+file
+
+
+
+add
+
+a1.5.g19.mean.gp
+file
+
+
+
+add
+
+a1.5.g16.min.gp
+file
+
+
+
+add
+
+a1.5.g14.max.gp
+file
+
+
+
+add
+
+a0.5.g29.min.gp
+file
+
+
+
+add
+
+a0.5.g27.max.gp
+file
+
+
+
+add
+
+n100.a1.5.sd.gp
+file
+
+
+
+add
+
+a1.5.g8.sd.gp
+file
+
+
+
+add
+
+n120.a0.5.sd.gp
+file
+
+
+
+add
+
+n80.a1.0.max.gp
+file
+
+
+
+add
+
+n60.a0.5.max.gp
+file
+
+
+
+add
+
+a1.0.g10.sd.gp
+file
+
+
+
+add
+
+n140.a1.5.sd.gp
+file
+
+
+
+add
+
+n160.a0.5.sd.gp
+file
+
+
+
+add
+
+a1.5.g2.min.gp
+file
+
+
+
+add
+
+a0.5.g4.max.gp
+file
+
+
+
+add
+
+a0.5.g6.min.gp
+file
+
+
+
+add
+
+a1.5.g30.sd.gp
+file
+
+
+
+add
+
+a1.0.g18.sd.gp
+file
+
+
+
+add
+
+maxdeg.a1.0.n40.60.ps
+file
+
+
+
+add
+
+a1.5.g15.sd.gp
+file
+
+
+
+add
+
+a0.5.g17.sd.gp
+file
+
+
+
+add
+
+windmill.a1.5.n160.gp
+file
+
+
+
+add
+
+a1.5.g20.mean.gp
+file
+
+
+
+add
+
+a1.5.g22.mean.gp
+file
+
+
+
+add
+
+a0.5.g20.min.gp
+file
+
+
+
+add
+
+a1.5.g24.mean.gp
+file
+
+
+
+add
+
+a1.0.g24.max.gp
+file
+
+
+
+add
+
+a1.0.g26.min.gp
+file
+
+
+
+add
+
+a1.0.g5.sd.gp
+file
+
+
+
+add
+
+a0.5.g2.sd.gp
+file
+
+
+
+add
+
+n60.a1.0.mean.gp
+file
+
+
+
+add
+
+a1.5.g26.mean.gp
+file
+
+
+
+add
+
+a1.5.g28.mean.gp
+file
+
+
+
+add
+
+a1.5.g25.min.gp
+file
+
+
+
+add
+
+a1.5.g23.max.gp
+file
+
+
+
+add
+
+a0.5.g16.max.gp
+file
+
+
+
+add
+
+a0.5.g18.min.gp
+file
+
+
+
+add
+
+n40.a1.5.min.gp
+file
+
+
+
+add
+
+a1.0.g5.max.gp
+file
+
+
+
+add
+
+a1.0.g7.min.gp
+file
+
+
+
+add
+
+n120.a1.0.min.gp
+file
+
+
+
+add
+
+n100.a0.5.min.gp
+file
+
+
+
+add
+
+a1.0.g27.sd.gp
+file
+
+
+
+add
+
+n140.a0.5.mean.gp
+file
+
+
+
+add
+
+a1.5.g9.min.gp
+file
+
+
+
+add
+
+a1.5.g7.max.gp
+file
+
+
+
+add
+
+a1.5.g24.sd.gp
+file
+
+
+
+add
+
+a0.5.g26.sd.gp
+file
+
+
+
+add
+
+sd.a0.5.n40.60.ps
+file
+
+
+
+add
+
+a0.5.g11.mean.gp
+file
+
+
+
+add
+
+a0.5.g13.mean.gp
+file
+
+
+
+add
+
+windmill.a1.0.n160.ps
+file
+
+
+
+add
+
+a1.0.g13.max.gp
+file
+
+
+
+add
+
+a1.0.g15.min.gp
+file
+
+
+
+add
+
+a0.5.g15.mean.gp
+file
+
+
+
+add
+
+a0.5.g17.mean.gp
+file
+
+
+
+add
+
+a1.5.g12.max.gp
+file
+
+
+
+add
+
+a1.5.g14.min.gp
+file
+
+
+
+add
+
+a0.5.g19.mean.gp
+file
+
+
+
+add
+
+a1.5.g3.sd.gp
+file
+
+
+
+add
+
+n100.a1.0.sd.gp
+file
+
+
+
+add
+
+a0.5.g25.max.gp
+file
+
+
+
+add
+
+a0.5.g27.min.gp
+file
+
+
+
+add
+
+n140.a1.0.sd.gp
+file
+
+
+
+add
+
+n80.a1.0.min.gp
+file
+
+
+
+add
+
+n60.a0.5.min.gp
+file
+
+
+
+add
+
+a1.0.g13.sd.gp
+file
+
+
+
+add
+
+a0.5.g2.max.gp
+file
+
+
+
+add
+
+a0.5.g4.min.gp
+file
+
+
+
+add
+
+a1.5.g10.sd.gp
+file
+
+
+
+add
+
+a0.5.g12.sd.gp
+file
+
+
+
+add
+
+a1.5.g18.sd.gp
+file
+
+
+
+add
+
+n120.a1.5.max.gp
+file
+
+
+
+add
+
+maxdeg.a1.5.n40.60.ps
+file
+
+
+
+add
+
+a0.5.g20.mean.gp
+file
+
+
+
+add
+
+a0.5.g22.mean.gp
+file
+
+
+
+add
+
+a1.0.g24.min.gp
+file
+
+
+
+add
+
+a1.0.g22.max.gp
+file
+
+
+
+add
+
+a0.5.g24.mean.gp
+file
+
+
+
+add
+
+a0.5.g26.mean.gp
+file
+
+
+
+add
+
+a1.5.g21.max.gp
+file
+
+
+
+add
+
+a1.5.g23.min.gp
+file
+
+
+
+add
+
+a1.0.g8.sd.gp
+file
+
+
+
+add
+
+a0.5.g14.max.gp
+file
+
+
+
+add
+
+a0.5.g16.min.gp
+file
+
+
+
+add
+
+a0.5.g28.mean.gp
+file
+
+
+
+add
+
+a0.5.g5.sd.gp
+file
+
+
+
+add
+
+n40.a0.5.mean.gp
+file
+
+
+
+add
+
+a1.5.g19.max.gp
+file
+
+
+
+add
+
+a1.5.g2.mean.gp
+file
+
+
+
+add
+
+a1.0.g5.min.gp
+file
+
+
+
+add
+
+a1.0.g3.max.gp
+file
+
+
+
+add
+
+a1.5.g4.mean.gp
+file
+
+
+
+add
+
+n80.a1.5.max.gp
+file
+
+
+
+add
+
+a1.0.g22.sd.gp
+file
+
+
+
+add
+
+a1.5.g6.mean.gp
+file
+
+
+
+add
+
+n140.a1.0.mean.gp
+file
+
+
+
+add
+
+a0.5.g21.sd.gp
+file
+
+
+
+add
+
+a1.5.g8.mean.gp
+file
+
+
+
+add
+
+n100.a1.5.mean.gp
+file
+
+
+
+add
+
+a1.5.g5.max.gp
+file
+
+
+
+add
+
+a1.5.g7.min.gp
+file
+
+
+
+add
+
+a1.0.g11.mean.gp
+file
+
+
+
+add
+
+a0.5.g9.max.gp
+file
+
+
+
+add
+
+n160.a1.0.max.gp
+file
+
+
+
+add
+
+a1.0.g13.mean.gp
+file
+
+
+
+add
+
+a1.5.g27.sd.gp
+file
+
+
+
+add
+
+a0.5.g29.sd.gp
+file
+
+
+
+add
+
+n140.a0.5.max.gp
+file
+
+
+
+add
+
+a1.0.g15.mean.gp
+file
+
+
+
+add
+
+n40.a1.5.sd.gp
+file
+
+
+
+add
+
+a1.0.g13.min.gp
+file
+
+
+
+add
+
+a1.0.g11.max.gp
+file
+
+
+
+add
+
+n60.a0.5.sd.gp
+file
+
+
+
+add
+
+a1.0.g17.mean.gp
+file
+
+
+
+add
+
+a1.0.g19.mean.gp
+file
+
+
+
+add
+
+n80.a1.5.sd.gp
+file
+
+
+
+add
+
+a1.5.g12.min.gp
+file
+
+
+
+add
+
+a1.5.g10.max.gp
+file
+
+
+
+add
+
+a1.5.g30.max.gp
+file
+
+
+
+add
+
+a0.5.g25.min.gp
+file
+
+
+
+add
+
+a0.5.g23.max.gp
+file
+
+
+
+add
+
+a1.0.g29.max.gp
+file
+
+
+
+add
+
+a1.5.g6.sd.gp
+file
+
+
+
+add
+
+a1.0.g1.mean.gp
+file
+
+
+
+add
+
+a1.0.g3.mean.gp
+file
+
+
+
+add
+
+a1.5.g28.max.gp
+file
+
+
+
+add
+
+a1.0.g5.mean.gp
+file
+
+
+
+add
+
+a1.0.g7.mean.gp
+file
+
+
+
+add
+
+a0.5.g2.min.gp
+file
+
+
+
+add
+
+a1.0.g9.mean.gp
+file
+
+
+
+add
+
+a0.5.g30.sd.gp
+file
+
+
+
+add
+
+a1.0.g16.sd.gp
+file
+
+
+
+add
+
+mindeg.a1.0.n40.60.ps
+file
+
+
+
+add
+
+a1.5.g13.sd.gp
+file
+
+
+
+add
+
+a0.5.g15.sd.gp
+file
+
+
+
+add
+
+n120.a1.5.min.gp
+file
+
+
+
+add
+
+a1.0.g20.mean.gp
+file
+
+
+
+add
+
+a1.0.g22.mean.gp
+file
+
+
+
+add
+
+a1.0.g24.mean.gp
+file
+
+
+
+add
+
+a1.0.g20.max.gp
+file
+
+
+
+add
+
+a1.0.g22.min.gp
+file
+
+
+
+add
+
+a1.0.g26.mean.gp
+file
+
+
+
+add
+
+a1.0.g3.sd.gp
+file
+
+
+
+add
+
+a1.0.g28.mean.gp
+file
+
+
+
+add
+
+n40.a1.0.mean.gp
+file
+
+
+
+add
+
+a1.5.g21.min.gp
+file
+
+
+
+add
+
+a0.5.g14.min.gp
+file
+
+
+
+add
+
+a0.5.g12.max.gp
+file
+
+
+
+add
+
+a1.0.g18.max.gp
+file
+
+
+
+add
+
+windmill.a0.5.dat
+file
+
+
+
+add
+
+a1.5.g19.min.gp
+file
+
+
+
+add
+
+a1.5.g17.max.gp
+file
+
+
+
+add
+
+a0.5.g8.sd.gp
+file
+
+
+
+add
+
+n80.a1.5.mean.gp
+file
+
+
+
+add
+
+a1.0.g1.max.gp
+file
+
+
+
+add
+
+a1.0.g3.min.gp
+file
+
+
+
+add
+
+n80.a1.5.min.gp
+file
+
+
+
+add
+
+n100.a1.0.max.gp
+file
+
+
+
+add
+
+a1.5.g5.min.gp
+file
+
+
+
+add
+
+a1.5.g3.max.gp
+file
+
+
+
+add
+
+a1.0.g25.sd.gp
+file
+
+
+
+add
+
+n120.a0.5.mean.gp
+file
+
+
+
+add
+
+a1.5.g22.sd.gp
+file
+
+
+
+add
+
+a0.5.g9.min.gp
+file
+
+
+
+add
+
+a0.5.g7.max.gp
+file
+
+
+
+add
+
+a0.5.g24.sd.gp
+file
+
+
+
+add
+
+n40.a1.0.sd.gp
+file
+
+
+
+add
+
+n160.a1.0.min.gp
+file
+
+
+
+add
+
+n140.a0.5.min.gp
+file
+
+
+
+add
+
+n80.a1.0.sd.gp
+file
+
+
+
+add
+
+a1.0.g11.min.gp
+file
+
+
+
+add
+
+a1.5.g10.min.gp
+file
+
+
+
+add
+
+a1.5.g30.min.gp
+file
+
+
+
+add
+
+a0.5.g21.max.gp
+file
+
+
+
+add
+
+a0.5.g23.min.gp
+file
+
+
+
+add
+
+a1.5.g1.sd.gp
+file
+
+
+
+add
+
+a1.0.g27.max.gp
+file
+
+
+
+add
+
+a1.0.g29.min.gp
+file
+
+
+
+add
+
+n60.a1.0.max.gp
+file
+
+
+
+add
+
+a1.5.g28.min.gp
+file
+
+
+
+add
+
+a1.5.g26.max.gp
+file
+
+
+
+add
+
+a0.5.g19.max.gp
+file
+
+
+
+add
+
+n40.a0.5.max.gp
+file
+
+
+
+add
+
+a1.5.g9.sd.gp
+file
+
+
+
+add
+
+a0.5.g2.mean.gp
+file
+
+
+
+add
+
+a0.5.g4.mean.gp
+file
+
+
+
+add
+
+a1.0.g11.sd.gp
+file
+
+
+
+add
+
+a0.5.g6.mean.gp
+file
+
+
+
+add
+
+a0.5.g10.sd.gp
+file
+
+
+
+add
+
+a0.5.g8.mean.gp
+file
+
+
+
+add
+
+a1.0.g8.max.gp
+file
+
+
+
+add
+
+a1.0.g19.sd.gp
+file
+
+
+
+add
+
+windmill.a0.5.n160.gp
+file
+
+
+
+add
+
+a1.5.g16.sd.gp
+file
+
+
+
+add
+
+mindeg.a1.5.n40.60.ps
+file
+
+
+
+add
+
+a0.5.g18.sd.gp
+file
+
+
+
+add
+
+maxdeg.a0.5.n40.60.ps
+file
+
+
+
+add
+
+a1.0.g20.min.gp
+file
+
+
+
+add
+
+n160.a1.5.max.gp
+file
+
+
+
+add
+
+a0.5.g10.max.gp
+file
+
+
+
+add
+
+a0.5.g12.min.gp
+file
+
+
+
+add
+
+mean.a1.0.n40.60.ps
+file
+
+
+
+add
+
+windmill.a1.0.dat
+file
+
+
+
+add
+
+a0.5.g30.max.gp
+file
+
+
+
+add
+
+a1.0.g16.max.gp
+file
+
+
+
+add
+
+a1.0.g18.min.gp
+file
+
+
+
+add
+
+a1.0.g6.sd.gp
+file
+
+
+
+add
+
+a0.5.g3.sd.gp
+file
+
+
+
+add
+
+a1.5.g17.min.gp
+file
+
+
+
+add
+
+a1.5.g15.max.gp
+file
+
+
+
+add
+
+a0.5.g28.max.gp
+file
+
+
+
+add
+
+a1.0.g1.min.gp
+file
+
+
+
+add
+
+a1.0.g20.sd.gp
+file
+
+
+
+add
+
+n120.a1.0.mean.gp
+file
+
+
+
+add
+
+n100.a1.0.min.gp
+file
+
+
+
+add
+
+a1.5.g3.min.gp
+file
+
+
+
+add
+
+a1.5.g1.max.gp
+file
+
+
+
+add
+
+a0.5.g7.min.gp
+file
+
+
+
+add
+
+a0.5.g5.max.gp
+file
+
+
+
+add
+
+a1.0.g28.sd.gp
+file
+
+
+
+add
+
+a1.5.g25.sd.gp
+file
+
+
+
+add
+
+n160.a1.5.mean.gp
+file
+
+
+
+add
+
+a0.5.g27.sd.gp
+file
+
+
+
+add
+
+a1.5.g10.mean.gp
+file
+
+
+
+add
+
+a1.5.g12.mean.gp
+file
+
+
+
+add
+
+a1.5.g14.mean.gp
+file
+
+
+
+add
+
+a0.5.g21.min.gp
+file
+
+
+
+add
+
+a1.5.g16.mean.gp
+file
+
+
+
+add
+
+a1.0.g25.max.gp
+file
+
+
+
+add
+
+a1.0.g27.min.gp
+file
+
+
+
+add
+
+a1.5.g18.mean.gp
+file
+
+
+
+add
+
+a1.5.g4.sd.gp
+file
+
+
+
+add
+
+n60.a1.0.min.gp
+file
+
+
+
+add
+
+a1.5.g26.min.gp
+file
+
+
+
+add
+
+a1.5.g24.max.gp
+file
+
+
+
+add
+
+a0.5.g17.max.gp
+file
+
+
+
+add
+
+a0.5.g19.min.gp
+file
+
+
+
+add
+
+n40.a0.5.min.gp
+file
+
+
+
+add
+
+n100.a0.5.sd.gp
+file
+
+
+
+add
+
+n120.a1.5.sd.gp
+file
+
+
+
+add
+
+n140.a0.5.sd.gp
+file
+
+
+
+add
+
+n160.a1.5.sd.gp
+file
+
+
+
+add
+
+a1.0.g14.sd.gp
+file
+
+
+
+add
+
+a1.0.g6.max.gp
+file
+
+
+
+add
+
+a1.0.g8.min.gp
+file
+
+
+
+add
+
+a1.5.g11.sd.gp
+file
+
+
+
+add
+
+windmill.a1.0.n160.gp
+file
+
+
+
+add
+
+a0.5.g13.sd.gp
+file
+
+
+
+add
+
+plot_all.gp~
+file
+
+
+
+add
+
+a1.5.g8.max.gp
+file
+
+
+
+add
+
+n100.a1.5.max.gp
+file
+
+
+
+add
+
+plot_all.gp
+file
+
+
+
+add
+
+a1.5.g19.sd.gp
+file
+
+
+
+add
+
+n160.a1.5.min.gp
+file
+
+
+
+add
+
+a1.0.g1.sd.gp
+file
+
+
+
+add
+
+a0.5.g10.min.gp
+file
+
+
+
+add
+
+a1.5.g21.mean.gp
+file
+
+
+
+add
+
+a1.0.g16.min.gp
+file
+
+
+
+add
+
+a1.0.g14.max.gp
+file
+
+
+
+add
+
+a0.5.g30.min.gp
+file
+
+
+
+add
+
+a1.5.g23.mean.gp
+file
+
+
+
+add
+
+a1.5.g25.mean.gp
+file
+
+
+
+add
+
+a1.5.g13.max.gp
+file
+
+
+
+add
+
+a1.5.g15.min.gp
+file
+
+
+
+add
+
+a1.5.g27.mean.gp
+file
+
+
+
+add
+
+a1.0.g9.sd.gp
+file
+
+
+
+add
+
+a0.5.g6.sd.gp
+file
+
+
+
+add
+
+a1.5.g29.mean.gp
+file
+
+
+
+add
+
+mean.a1.5.n40.60.ps
+file
+
+
+
+add
+
+a0.5.g26.max.gp
+file
+
+
+
+add
+
+a0.5.g28.min.gp
+file
+
+
+
+add
+
+n60.a1.5.mean.gp
+file
+
+
+
+add
+
+n60.a1.5.max.gp
+file
+
+
+
+add
+
+a1.5.g1.min.gp
+file
+
+
+
+add
+
+a1.0.g23.sd.gp
+file
+
+
+
+add
+
+AA_PaperGraphs.gnu~
+file
+
+
+
+add
+
+a0.5.g3.max.gp
+file
+
+
+
+add
+
+a0.5.g5.min.gp
+file
+
+
+
+add
+
+n100.a0.5.mean.gp
+file
+
+
+
+add
+
+a1.5.g20.sd.gp
+file
+
+
+
+add
+
+a0.5.g22.sd.gp
+file
+
+
+
+add
+
+n140.a1.0.max.gp
+file
+
+
+
+add
+
+n120.a0.5.max.gp
+file
+
+
+
+add
+
+a0.5.g10.mean.gp
+file
+
+
+
+add
+
+a1.5.g28.sd.gp
+file
+
+
+
+add
+
+a0.5.g12.mean.gp
+file
+
+
+
+add
+
+a1.5.g30.mean.gp
+file
+
+
+
+add
+
+a0.5.g14.mean.gp
+file
+
+
+
+add
+
+a1.0.g25.min.gp
+file
+
+
+
+add
+
+a1.0.g23.max.gp
+file
+
+
+
+add
+
+a0.5.g16.mean.gp
+file
+
+
+
+add
+
+a0.5.g18.mean.gp
+file
+
+
+
+add
+
+a1.5.g22.max.gp
+file
+
+
+
+add
+
+a1.5.g24.min.gp
+file
+
+
+
+add
+
+windmill.a1.5.n160.ps
+file
+
+
+
+add
+
+a0.5.g17.min.gp
+file
+
+
+
+add
+
+a0.5.g15.max.gp
+file
+
+
+
+add
+
+n120.a1.0.sd.gp
+file
+
+
+
+add
+
+a1.5.g7.sd.gp
+file
+
+
+
+add
+
+n160.a1.0.sd.gp
+file
+
+
+
+add
+
+n80.a0.5.max.gp
+file
+
+
+
+add
+
+a1.0.g6.min.gp
+file
+
+
+
+add
+
+a1.0.g4.max.gp
+file
+
+
+
+add
+
+a1.0.g17.sd.gp
+file
+
+
+
+add
+
+a1.5.g14.sd.gp
+file
+
+
+
+add
+
+a1.5.g6.max.gp
+file
+
+
+
+add
+
+a1.5.g8.min.gp
+file
+
+
+
+add
+
+n100.a1.5.min.gp
+file
+
+
+
+add
+
+a0.5.g16.sd.gp
+file
+
+
+
+add
+
+mindeg.a0.5.n40.60.ps
+file
+
+
+
+add
+
+a0.5.g21.mean.gp
+file
+
+
+
+add
+
+a1.0.g14.min.gp
+file
+
+
+
+add
+
+a1.0.g12.max.gp
+file
+
+
+
+add
+
+a0.5.g23.mean.gp
+file
+
+
+
+add
+
+a1.0.g4.sd.gp
+file
+
+
+
+add
+
+a0.5.g1.sd.gp
+file
+
+
+
+add
+
+a0.5.g25.mean.gp
+file
+
+
+
+add
+
+a1.5.g11.max.gp
+file
+
+
+
+add
+
+a1.5.g13.min.gp
+file
+
+
+
+add
+
+a0.5.g27.mean.gp
+file
+
+
+
+add
+
+a0.5.g24.max.gp
+file
+
+
+
+add
+
+a0.5.g26.min.gp
+file
+
+
+
+add
+
+a0.5.g29.mean.gp
+file
+
+
+
+add
+
+windmill.a1.5.dat
+file
+
+
+
+add
+
+a0.5.g9.sd.gp
+file
+
+
+
+add
+
+n80.a0.5.mean.gp
+file
+
+
+
+add
+
+a1.5.g29.max.gp
+file
+
+
+
+add
+
+n60.a1.5.min.gp
+file
+
+
+
+add
+
+a1.5.g1.mean.gp
+file
+
+
+
+add
+
+a1.5.g3.mean.gp
+file
+
+
+
+add
+
+n100.a1.0.mean.gp
+file
+
+
+
+add
+
+a0.5.g1.max.gp
+file
+
+
+
+add
+
+a0.5.g3.min.gp
+file
+
+
+
+add
+
+a1.5.g5.mean.gp
+file
+
+
+
+add
+
+a1.5.g7.mean.gp
+file
+
+
+
+add
+
+a1.0.g26.sd.gp
+file
+
+
+
+add
+
+a1.5.g9.mean.gp
+file
+
+
+
+add
+
+n140.a1.0.min.gp
+file
+
+
+
+add
+
+a1.5.g23.sd.gp
+file
+
+
+
+add
+
+a0.5.g25.sd.gp
+file
+
+
+
+add
+
+a1.0.g10.mean.gp
+file
+
+
+
+add
+
+n120.a0.5.min.gp
+file
+
+
+
+add
+
+n140.a1.5.mean.gp
+file
+
+
+
+add
+
+sd.a1.0.n40.60.ps
+file
+
+
+
+add
+
+a1.0.g12.mean.gp
+file
+
+
+
+add
+
+a1.0.g14.mean.gp
+file
+
+
+
+add
+
+n40.a0.5.sd.gp
+file
+
+
+
+add
+
+a1.0.g16.mean.gp
+file
+
+
+
+add
+
+a0.5.g30.mean.gp
+file
+
+
+
+add
+
+a1.0.g23.min.gp
+file
+
+
+
+add
+
+a1.0.g21.max.gp
+file
+
+
+
+add
+
+n60.a1.5.sd.gp
+file
+
+
+
+add
+
+a1.0.g18.mean.gp
+file
+
+
+
+add
+
+n80.a0.5.sd.gp
+file
+
+
+
+add
+
+a1.5.g20.max.gp
+file
+
+
+
+add
+
+a1.5.g22.min.gp
+file
+
+
+
+add
+
+a0.5.g13.max.gp
+file
+
+
+
+add
+
+a0.5.g15.min.gp
+file
+
+
+
+add
+
+a1.5.g2.sd.gp
+file
+
+
+
+add
+
+a1.0.g19.max.gp
+file
+
+
+
+add
+
+n40.a1.0.max.gp
+file
+
+
+
+add
+
+a1.0.g2.mean.gp
+file
+
+
+
+add
+
+a1.5.g18.max.gp
+file
+
+
+
+add
+
+a1.0.g4.mean.gp
+file
+
+
+
+add
+
+a1.0.g6.mean.gp
+file
+
+
+
+add
+
+n80.a0.5.min.gp
+file
+
+
+
+add
+
+a1.0.g4.min.gp
+file
+
+
+
+add
+
+a1.0.g2.max.gp
+file
+
+
+
+add
+
+a1.0.g8.mean.gp
+file
+
+
+
+add
+
+a1.0.g12.sd.gp
+file
+
+
+
+add
+
+a0.5.g11.sd.gp
+file
+
+
+
+add
+
+a1.5.g4.max.gp
+file
+
+
+
+add
+
+a1.5.g6.min.gp
+file
+
+
+
+add
+
+a0.5.g8.max.gp
+file
+
+
+
+add
+
+a1.0.g21.mean.gp
+file
+
+
+
+add
+
+a1.5.g17.sd.gp
+file
+
+
+
+add
+
+a0.5.g19.sd.gp
+file
+
+
+
+add
+
+a1.0.g23.mean.gp
+file
+
+
+
+add
+
+a1.0.g12.min.gp
+file
+
+
+
+add
+
+a1.0.g10.max.gp
+file
+
+
+
+add
+
+n140.a1.5.max.gp
+file
+
+
+
+add
+
+a1.0.g25.mean.gp
+file
+
+
+
+add
+
+a1.0.g30.max.gp
+file
+
+
+
+add
+
+a1.0.g27.mean.gp
+file
+
+
+
+add
+
+a1.5.g11.min.gp
+file
+
+
+
+add
+
+a1.0.g29.mean.gp
+file
+
+
+
+add
+
+a1.0.g7.sd.gp
+file
+
+
+
+add
+
+a0.5.g22.max.gp
+file
+
+
+
+add
+
+a0.5.g24.min.gp
+file
+
+
+
+add
+
+a0.5.g4.sd.gp
+file
+
+
+
+add
+
+a1.0.g28.max.gp
+file
+
+
+
+add
+
+mean.a0.5.n40.60.ps
+file
+
+
+
+add
+
+n80.a1.0.mean.gp
+file
+
+
+
+add
+
+n40.a1.5.mean.gp
+file
+
+
+
+add
+
+a1.5.g27.max.gp
+file
+
+
+
+add
+
+a1.5.g29.min.gp
+file
+
+
+
+add
+
+a0.5.g1.min.gp
+file
+
+
+
+add
+
+a1.0.g21.sd.gp
+file
+
+
+
+add
+
+a0.5.g20.sd.gp
+file
+
+
+
+add
+
+a1.0.g9.max.gp
+file
+
+
+
+add
+
+a1.0.g29.sd.gp
+file
+
+
+
+add
+
+n160.a0.5.mean.gp
+file
+
+
+
+add
+
+a1.0.g30.mean.gp
+file
+
+
+
+add
+
+a1.5.g26.sd.gp
+file
+
+
+
+add
+
+n60.a1.0.sd.gp
+file
+
+
+
+add
+
+a0.5.g28.sd.gp
+file
+
+
+
+add
+
+a1.0.g21.min.gp
+file
+
+
+
+add
+
+sd.a1.5.n40.60.ps
+file
+
+
+
+add
+
+n160.a0.5.max.gp
+file
+
+
+
+add
+
+a1.5.g20.min.gp
+file
+
+
+
+add
+
+a0.5.g11.max.gp
+file
+
+
+
+add
+
+a0.5.g13.min.gp
+file
+
+
+
+add
+
+a1.0.g19.min.gp
+file
+
+
+
+add
+
+a1.0.g17.max.gp
+file
+
+
+
+add
+
+n40.a1.0.min.gp
+file
+
+
+
+add
+
+a1.5.g5.sd.gp
+file
+
+
+
+add
+
+a1.5.g16.max.gp
+file
+
+
+
+add
+
+a1.5.g18.min.gp
+file
+
+
+
+add
+
+a0.5.g29.max.gp
+file
+
+
+
+add
+
+a1.0.g2.min.gp
+file
+
+
+
+add
+
+a0.5.g1.mean.gp
+file
+
+
+
+add
+
+a0.5.g3.mean.gp
+file
+
+
+
+add
+
+a1.0.g30.sd.gp
+file
+
+
+
+add
+
+a0.5.g5.mean.gp
+file
+
+
+
+add
+
+a0.5.g7.mean.gp
+file
+
+
+
+add
+
+a1.0.g15.sd.gp
+file
+
+
+
+add
+
+a1.5.g2.max.gp
+file
+
+
+
+add
+
+a1.5.g4.min.gp
+file
+
+
+
+add
+
+a0.5.g9.mean.gp
+file
+
+
+
+add
+
+a1.5.g12.sd.gp
+file
+
+
+
+add
+
+a0.5.g14.sd.gp
+file
+
+
+
+add
+
+a0.5.g6.max.gp
+file
+
+
+
+add
+
+a0.5.g8.min.gp
+file
+
+
+
+add
+
+a1.0.g10.min.gp
+file
+
+
+
+add
+
+n140.a1.5.min.gp
+file
+
+
+
+add
+
+a1.0.g30.min.gp
+file
+
+
+
+add
+
+a1.0.g2.sd.gp
+file
+
+
+
+add
+
+a0.5.g22.min.gp
+file
+
+
+
+add
+
+a0.5.g20.max.gp
+file
+
+
+
+add
+
+a1.0.g28.min.gp
+file
+
+
+
+add
+
+a1.0.g26.max.gp
+file
+
+
+
+add
+
+a0.5.g7.sd.gp
+file
+
+
+
+add
+
+a1.5.g25.max.gp
+file
+
+
+
+add
+
+a1.5.g27.min.gp
+file
+
+
+
+add
+
+n60.a0.5.mean.gp
+file
+
+
+
+add
+
+a0.5.g18.max.gp
+file
+
+
+
+add
+
+n40.a1.5.max.gp
+file
+
+
+
+add
+
+a1.0.g9.min.gp
+file
+
+
+
+add
+
+a1.0.g7.max.gp
+file
+
+
+
+add
+
+a1.0.g24.sd.gp
+file
+
+
+
+add
+
+AA_PaperGraphs.gnu
+file
+
+
+
+add
+
+a1.5.g21.sd.gp
+file
+
+
+
+add
+
+n160.a1.0.mean.gp
+file
+
+
+
+add
+
+a0.5.g23.sd.gp
+file
+
+
+
+add
+
+n120.a1.0.max.gp
+file
+
+
+
+add
+
+n120.a1.5.mean.gp
+file
+
+
+
+add
+
+n100.a0.5.max.gp
+file
+
+
+
+add
+
+a1.5.g9.max.gp
+file
+
+
+
+add
+
+n160.a0.5.min.gp
+file
+
+
+
+add
+
+a1.5.g29.sd.gp
+file
+
+
+
+add
+
